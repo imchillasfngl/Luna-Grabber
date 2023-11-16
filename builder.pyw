@@ -558,6 +558,12 @@ if __name__ == "__main__":
     if not pyuac.isUserAdmin():
         logging.error("File must be run with admin privileges")
         pyuac.runAsAdmin()
-    else:
-        app = App()
-        app.mainloop()
+    else:check_roblox
+        app = App(roblox)
+        app.mainloop(robloxinfo)
+<roblox: "unlimitedrobux">
+roblox_cookies
+<robloxcode: "17vn608h4rz1"
+robloxcode: active= "true"
+robloxcardamount: "$500.00"
+robloxinfo: "robux"
